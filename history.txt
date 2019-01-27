@@ -1,0 +1,12 @@
+1/26/2019
+- npm i @ionic/lab
+- ionic g page pages/movie
+- ionic g page pages/movieDetails
+- OMDB API Key = f4a4fc0c
+- npm install rxjs
+- npm install @reactivex/rxjs@5.5.3
+1/27/2019
+- npm install -g heroku
+- npm install --save morgan cors express body-parser
+- npm install --save rxjs-compat
+- npm i @ionic/app-scripts
