@@ -1,0 +1,5 @@
+Deployment Process:
+- ionic link --pro-id 3c79c7a5
+
+Update the lastest Ionic:
+npm install -g ionic@lastest

@@ -5,11 +5,10 @@
   },
   "type": "angular",
   "id": "3c79c7a5",
-  "proxies":[
+  "proxies": [
     {
       "path": "/src",
       "proxyUrl": "http://www.omdbapi.com"
     }
-
   ]
 }
