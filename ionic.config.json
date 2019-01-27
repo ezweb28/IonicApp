@@ -1,6 +1,15 @@
 {
   "name": "myApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
-  "id": "3c79c7a5"
+  "id": "3c79c7a5",
+  "proxies":[
+    {
+      "path": "/src",
+      "proxyUrl": "http://www.omdbapi.com"
+    }
+
+  ]
 }

@@ -11,3 +11,4 @@
 - npm install --save rxjs-compat
 - npm i @ionic/app-scripts
 - To run, type "./herokuDeployment.sh" in Terminal
+- sudo npm install -g firebase-tools
