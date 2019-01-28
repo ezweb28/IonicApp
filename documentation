@@ -1,5 +1,8 @@
-Deployment Process:
-- ionic link --pro-id 3c79c7a5
+Deploy to firebase
+- Assume user installed firebase (ex:npm install -g firebase-tools)
+- 1. firebase init
+- 2. firebase login
+- 3. firebase deploy
 
 Update the lastest Ionic:
 npm install -g ionic@lastest
